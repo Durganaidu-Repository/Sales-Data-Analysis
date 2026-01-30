@@ -6,7 +6,7 @@ Sales Data Analysis using Python
 
 ## 📖 Project Overview
 This project focuses on analyzing sales data using **Python** to extract meaningful business insights.  
-It demonstrates core Python skills such as data manipulation, aggregation, and basic visualization, suitable for **fresher Data Analyst / Python roles**.
+It demonstrates core Python skills such as data manipulation, aggregation, and basic visualization,
 
 ## 🛠 Tools & Technologies
 - Python
@@ -77,7 +77,7 @@ print(monthly_sales)
 - Using Pandas for business insights
 - Creating basic visualizations
 
-## 📌 Resume Description (Copy-Paste)
+
 **Python Data Analysis Project:**
 - Analyzed sales data using Python (Pandas, NumPy)
 - Performed data aggregation and trend analysis
